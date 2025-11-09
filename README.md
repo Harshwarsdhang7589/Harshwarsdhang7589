@@ -17,7 +17,7 @@
 
 > "Talk is cheap. Show me the code...." –  Creator of Linux OS: Linus Torvalds
 
-I’m Kaushik, a **tech enthusiast** and **problem solver** who thrives on **building impactful solutions**. My journey is fueled by curiosity, creativity, and a relentless drive to explore the **infinite possibilities of technology**.
+I’m Harshwardhan, a **tech enthusiast** and **problem solver** who thrives on **building impactful solutions**. My journey is fueled by curiosity, creativity, and a relentless drive to explore the **infinite possibilities of technology**.
 
 - 🌱 **Currently Exploring**:Java Advanced,Data Structures, AI&ML Implementation, Cloud Computing and Full-Stack Development  
 - 🚀 **Ongoing Projects**:  
