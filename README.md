@@ -31,7 +31,7 @@ I’m Harshwardhan, a **tech enthusiast** and **problem solver** who thrives on 
 ## 🛠️ My Tech Arsenal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,idea,linux,c,cpp,linkedin,python,html,css,js,mysql,git,github,java,azure,react,spring" alt="Tech Stack">
+  <img src="https://skillicons.dev/icons?i=aws,idea,linux,c,cpp,linkedin,html,css,js,mysql,git,github,java,azure,react,spring" alt="Tech Stack">
 </p>
 
 ---
